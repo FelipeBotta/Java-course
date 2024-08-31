@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a72b57b-e491-4879-8457-56482bc2bab8" name="Changes" comment="Primeira Lista de Exercicios Concluida" />
+    <list default="true" id="6a72b57b-e491-4879-8457-56482bc2bab8" name="Changes" comment="Primeira Lista de Exercicios Concluida">
+      <change afterPath="$PROJECT_DIR$/src/conta_telefone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decimo_quinto_ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decimo_setimo_ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decimo_sexto_ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dia_semana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -31,46 +42,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/felip/OneDrive/Documentos/Estudos/Java-udemy/exercicio1/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/felip/OneDrive/Documentos/Estudos/Java-course",
+    "onboarding.tips.debug.path": "C:/Users/felip/OneDrive/Documentos/Estudos/Java-udemy/exercicio1/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.decimo_quarto_ex">
-    <configuration name="decimo_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decimo_ex" />
+}]]></component>
+  <component name="RunManager" selected="Application.decimo_setimo_ex">
+    <configuration name="conta_telefone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conta_telefone" />
       <module name="exercicio1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="decimo_primeiro_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decimo_primeiro_ex" />
+    <configuration name="decimo_quinto_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decimo_quinto_ex" />
       <module name="exercicio1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="decimo_quarto_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decimo_quarto_ex" />
+    <configuration name="decimo_setimo_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decimo_setimo_ex" />
       <module name="exercicio1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="decimo_segundo_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decimo_segundo_ex" />
+    <configuration name="decimo_sexto_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decimo_sexto_ex" />
       <module name="exercicio1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="decimo_terceiro_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decimo_terceiro_ex" />
+    <configuration name="dia_semana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dia_semana" />
       <module name="exercicio1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.decimo_quarto_ex" />
-        <item itemvalue="Application.decimo_terceiro_ex" />
-        <item itemvalue="Application.decimo_segundo_ex" />
-        <item itemvalue="Application.decimo_primeiro_ex" />
-        <item itemvalue="Application.decimo_ex" />
+        <item itemvalue="Application.decimo_setimo_ex" />
+        <item itemvalue="Application.decimo_sexto_ex" />
+        <item itemvalue="Application.decimo_quinto_ex" />
+        <item itemvalue="Application.conta_telefone" />
+        <item itemvalue="Application.dia_semana" />
       </list>
     </recent_temporary>
   </component>
